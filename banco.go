@@ -11,6 +11,4 @@ func main() {
 	contaIsac := contas.ContaCorrente{}
 	fmt.Println(contaIsac)
 
-	contaKaryne := contas.contaPoupanca{}
-
 }
